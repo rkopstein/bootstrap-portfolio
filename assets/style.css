@@ -15,6 +15,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+
   }
 
   h1,
@@ -128,7 +129,9 @@ h3 {
     background: rgb(233, 230, 230);
     border: 1px solid rgb(163, 22, 22); 
 }
-
+/*comment: psuedo-code{
+  wrapper or something needs to go here 
+} */
 #about {
     margin: 25px;
 }
